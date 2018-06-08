@@ -1,17 +1,17 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "kong-plugin-gwa-ip-anonymity"
-version = "1.0.0-0"
+version = "1.0.1-0"
 supported_platforms = {"linux", "macosx"}
 -- LuaDist source
 source = {
-  tag = "1.0.0-0",
+  tag = "1.0.1-0",
   url = "git://github.com/LuaDist-testing/kong-plugin-gwa-ip-anonymity.git"
 }
 -- Original source
 -- source = {
 --   url = "git://github.com/bcgov/gwa-ip-anonymity",
---   tag = "1.0.0"
+--   tag = "1.0.1-0"
 -- }
 description = {
   summary = "BC Government Kong Plugin IP Address Anonymizer",
